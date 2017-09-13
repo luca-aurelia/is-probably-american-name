@@ -6,7 +6,10 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["name", "US"],
+  "keywords": [
+    "name",
+    "US"
+  ],
   "author": "C. Thomas Bailey (@noise_machines)",
   "license": "MIT",
   "dependencies": {
