@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`isProbablyAmericanName should throw an error if it's passed something besides a string 1`] = `"isProbablyAmericanName expected a string but got 42"`;
+
+exports[`isProbablyAmericanName should throw an error if it's passed something besides a string 2`] = `"isProbablyAmericanName expected a string but got {\\"answer\\":42}"`;

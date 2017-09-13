@@ -1,0 +1,22 @@
+{
+  "name": "is-probably-american-name",
+  "version": "0.0.1",
+  "description": "Check a string against a database of American names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "name",
+    "US"
+  ],
+  "author": "C. Thomas Bailey",
+  "license": "MIT",
+  "dependencies": {
+    "kind-of": "^5.0.2",
+    "us-baby-names": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^21.0.2"
+  }
+}
