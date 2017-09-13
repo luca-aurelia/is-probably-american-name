@@ -6,11 +6,8 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [
-    "name",
-    "US"
-  ],
-  "author": "C. Thomas Bailey",
+  "keywords": ["name", "US"],
+  "author": "C. Thomas Bailey (@noise_machines)",
   "license": "MIT",
   "dependencies": {
     "kind-of": "^5.0.2",
