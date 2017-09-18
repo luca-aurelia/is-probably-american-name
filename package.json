@@ -1,6 +1,6 @@
 {
   "name": "is-probably-american-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check a string against a database of American names.",
   "main": "index.js",
   "scripts": {
