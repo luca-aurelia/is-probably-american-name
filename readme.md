@@ -40,3 +40,7 @@ This packages uses a database of American names from 1880 to 2016. As such, it i
 | Azami     | ❌ |
 | Weiwen    | ❌ |
 | Rajeswari | ❌ |
+
+# Created By
+
+- [Thomas Bailey](https://github.com/noise-machines)
